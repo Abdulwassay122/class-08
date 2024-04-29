@@ -46,3 +46,6 @@ else if (per > 33) {
 else if (per < 33) {
     console.log("Yoyu are Fail");
 }
+
+// let boy1 = "wassay"
+// console.log(boy1 === "Wassay" ? "wassay found" : "wassy with red hair found")
